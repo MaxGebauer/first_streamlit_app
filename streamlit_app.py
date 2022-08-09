@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('Mein Streamlit Ding')
+streamlit.title('Mein Streamlit Gerät')
